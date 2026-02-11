@@ -1,4 +1,3 @@
-%%writefile README.md
 # Delhi NCR AQI Prediction & Risk Classification System
 
 ## Dataset
