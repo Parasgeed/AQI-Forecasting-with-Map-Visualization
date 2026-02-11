@@ -18,9 +18,7 @@ Due to size and licensing constraints, the dataset is **not included** in this r
 
 2. Create a folder named `data/` in the project root:
 
-Delhi-NCR-AQI-Prediction/
-  └── data/
-      └── delhi_ncr_aqi_dataset.csv
+ *Delhi-NCR-AQI-Prediction/data/delhi_ncr_aqi_dataset.csv*
       
 3. Run notebooks in order.
 
